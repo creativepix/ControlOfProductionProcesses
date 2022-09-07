@@ -24,6 +24,6 @@ train.csv - данные для обучения предсказаний
 test.csv - данные для предсказаний
 
 ## Доп. информация
-Все файлы, с которыми производилась работа (будут доступны как минимум в течении 14 дней, поэтому советаю сохранить локально): https://drive.google.com/drive/folders/1MDRQwUxqW_6oeHWrTsJocgup1pTeY-yZ?usp=sharing
+Все файлы, с которыми производилась работа (будут доступны как минимум в течении 14 дней, поэтому советаю сохранить локально) (данные о datasets/human_detect/ удалены, так как весят очень много и на данный момент на диске не помещаются): https://drive.google.com/drive/folders/1MDRQwUxqW_6oeHWrTsJocgup1pTeY-yZ?usp=sharing
 
 Скринкаст: https://youtu.be/7Hx_KxiPa9E
